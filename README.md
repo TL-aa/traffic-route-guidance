@@ -31,7 +31,7 @@ A university project combining machine learning and search algorithms, using rea
 | Area | Tools |
 |---|---|
 | Languages | Python |
-| Frameworks / libraries | Tkinter |
+| Frameworks / libraries | Tkinter, Tensorflow | 
 | Data / models | LSTM, GRU, Random Forest; VicRoads SCATS traffic data |
 | Algorithms | A* search, Yen's k-shortest paths |
 
